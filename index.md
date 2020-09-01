@@ -1,6 +1,3 @@
-1. TOC
-{:toc}
-
 # Présentation
 
 Test de portfolio
