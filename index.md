@@ -1,3 +1,5 @@
+{:toc}
+
 # Présentation
 
 Test de portfolio
