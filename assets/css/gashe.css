@@ -24,7 +24,17 @@ header, #content-wrapper {
   vertical-align: middle;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  background-color: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  background-color: #2e7bcf url;
+  background-image: url(../images/header-bg.jpg);
+  background-position-x: 0px;
+  background-position-y: 0px;
+  background-size: initial;
+  background-repeat-x: repeat;
+  background-repeat-y: no-repeat;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: rgb(46, 123, 207);
 }
 #content-wrapper > ul:first-child li a:hover {
   background-color: #44F;
