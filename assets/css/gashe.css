@@ -42,3 +42,7 @@ header, #content-wrapper {
 #content-wrapper > ul:first-child li + li {
   border-left: 1px solid #FFF;
 }
+
+header a.button {
+  background: transparent url(../../images/Linkedin.png) 0 0 no-repeat;
+}
