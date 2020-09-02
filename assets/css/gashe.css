@@ -44,5 +44,16 @@ header, #content-wrapper {
 }
 
 header a.button {
-  background: transparent url(../../images/Linkedin.png) 0 0 no-repeat;
+  background: transparent url(../../images/Linkedin.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 50px;
+  padding-top: 10px;
+  display: block;
+  text-align: left;
+  padding: 70px;
+  font-size: 160%;
+}
+header a.button small {
+ display: block; 
 }
