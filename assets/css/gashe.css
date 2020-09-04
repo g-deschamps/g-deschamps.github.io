@@ -37,7 +37,6 @@ header, #content-wrapper {
 }
 #content-wrapper > ul:first-child li a:hover {
   background-color: #44F;
-  font-weight: bold;
 }
 #content-wrapper > ul:first-child li + li {
   border-left: 1px solid #FFF;
@@ -47,12 +46,14 @@ header a.button {
   background: transparent url(../../images/Linkedin.png);
   background-repeat: no-repeat;
   background-size: auto;
-  height: 50px;
+  height: 70px;
   padding-top: 10px;
   display: block;
   text-align: left;
-  padding: 70px;
-  font-size: 160%;
+  padding-left: 90px;
+  padding-top: 15px;
+  font-size: 200%;
+  color: white;
 }
 header a.button small {
  display: block; 
