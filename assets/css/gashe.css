@@ -43,6 +43,7 @@ header, #content-wrapper {
 }
 
 header a.button {
+  border: 1px solid transparent;
   background: transparent url(../../images/Linkedin.png);
   background-repeat: no-repeat;
   background-size: auto;
@@ -53,8 +54,11 @@ header a.button {
   padding-left: 90px;
   padding-top: 15px;
   font-size: 200%;
-  color: white;
+  color: #FFF;
 }
 header a.button small {
  display: block; 
+}
+header a.button:hover {
+  border: 1px solid #FFFFFF;
 }
