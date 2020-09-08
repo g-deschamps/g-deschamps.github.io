@@ -1,2 +1,3 @@
 # Formation
 
+![---](/images/formations.png)
