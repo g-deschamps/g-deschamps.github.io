@@ -32,9 +32,7 @@
     </header>
 
     <div id="content-wrapper">
-      <ul>{% for item in site.data.menu.toc %}
-	    <li><a href="{{entry.url}}">{{entry.titre}}</a></li>
-      {% endfor %}</ul>
+      {% include toc.html %}
       <div class="inner clearfix">
         <section id="main-content">
          {{ content }}
