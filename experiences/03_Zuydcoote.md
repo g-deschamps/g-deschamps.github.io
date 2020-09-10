@@ -1,4 +1,4 @@
---
+---
 titre: Stagiaire Logistique
 image: /images/HMZ.png
 image_alt: Hopital Maritime de Zuydcoote
@@ -8,5 +8,6 @@ dates:
 lieux: 
   - nom: Hopital Maritime Vancauwenberghe de Zuydcoote
     url: https://www.ch-zuydcoote.fr
---
+---
+
 J’ai ...

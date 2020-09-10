@@ -1,4 +1,4 @@
---
+---
 titre: Stagiaire Logistique
 image: /images/CHV.png
 image_alt: Centre Hospitalier de Valenciennes
@@ -10,7 +10,8 @@ dates:
 lieux: 
   - nom: Centre Hospitalier de Valenciennes
     url: https://www.ch-valenciennes.fr
---
+---
+
 J’ai eu l’occasion d’effectuer mes 2 stages de Master au sein de l’Hopital Jean Bernard situé à Valenciennes.
 
 Durant premier stage, j’ai eu l’occasion d’évaluer et de mettre en place une méthodologie d’optimisation du fonctionnement de la gestion des stocks de consommable au sein du pôle Imagerie.
