@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title: [Gaëlle DESCHAMPS]
 description: [Ingénieure en logistique]
+collections:
+  - experiences
