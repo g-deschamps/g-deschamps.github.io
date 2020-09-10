@@ -1,3 +1,4 @@
+![Université d'Artois](https://github.com/g-deschamps/g-deschamps.github.io/blob/master/images/Univ_Artois.png)
 # Ingénieure d’étude,
 *sept.2019 – sept 2020*
 [`Université d’Artois de Béthune`](http://www.univ-artois.fr/) – [`Laboratoire LGI2A`](https://www.lgi2a.univ-artois.fr/spip/fr)
