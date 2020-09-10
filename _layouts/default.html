@@ -32,23 +32,9 @@
     </header>
 
     <div id="content-wrapper">
-      <ul>
-  	<li>
-		<a href="https://g-deschamps.github.io/index.html">Présentation</a>
-	</li>
-  	<li>
-		<a href="https://g-deschamps.github.io/formations.html">Formation</a>
-	</li>
-  	<li>
-		<a href="{{ '/_experiences/01_LGI2A.md' | relative_url }}">Expériences professionnelles</a>
-	</li>
-  	<li>
-		<a href="https://g-deschamps.github.io/competences.html">Compétences acquises</a>
-	</li>
-  	<li>
-		<a href="https://g-deschamps.github.io/loisirs.html">Loisirs</a>
-	</li>
-      </ul>
+      <ul>{% for item in site.data.menu.toc %}
+	    <li><a href="{{entry.url}}">{{entry.titre}}</a></li>
+      {% endfor %}</ul>
       <div class="inner clearfix">
         <section id="main-content">
          {{ content }}
