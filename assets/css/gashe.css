@@ -92,3 +92,23 @@ header .inner .left {
 
 /* Mise en page des expériences professionnelles */
 
+section.exp {
+  display: flex;
+}
+section.exp {
+  flex-direction: row;
+}
+section.exp {
+  flex-direction: row-reverse;
+}
+
+section.exp h2 .intitule {
+  display: inline-block;
+}
+
+section.exp h2 .dates {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+}
