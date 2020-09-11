@@ -178,6 +178,10 @@ section.exp ul.lieux li + li:before {
   content: ", ";
 }
 
+section.exp .bloc-donnees {
+    width: 600px;
+}
+
 section.exp .contenu-exp{
   text-align: justify;
 }
