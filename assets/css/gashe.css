@@ -107,7 +107,7 @@ section.exp:nth-child(2n+1) {
   justify-content: space-between;
   background-color: #F7F7F7;
 }
-section.exp:nth-child(2n) .bloc-donnees {
+section.exp:nth-child(2n+1) .bloc-donnees {
   padding-right: 1em;
 }
 
