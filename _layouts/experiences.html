@@ -31,10 +31,10 @@
        </div>
     </header>
 
-    <div id="content-wrapper">
-	   <h1>Expériences professionnelles</h1>  
+    <div id="content-wrapper">  
       {% include toc.html %}
       <div class="inner clearfix">
+	      <h1>Expériences professionnelles</h1>
 	{% for experience in site.experiences %}<section class="exp">
           <div class="bloc-image">
             <img src="{{ experience.image }}" alt="{{ experience.image_alt }}"/>
