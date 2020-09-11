@@ -112,3 +112,10 @@ section.exp h2 .dates {
   margin: 0;
   display: inline-block;
 }
+
+section.exp h2 .dates .li ,
+section.exp h2 .dates .debut ,
+section.exp h2 .dates .fin {
+  display: inline;
+}
+
