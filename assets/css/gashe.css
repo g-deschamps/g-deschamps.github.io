@@ -142,6 +142,7 @@ section.exp ul.lieux {
   font-weight: normal;
   font-style: italic;
   font-size: 100%;
+  margin-bottom: 10px;
 }
 
 section.exp ul.lieux li {
