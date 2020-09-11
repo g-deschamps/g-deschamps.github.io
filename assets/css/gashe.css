@@ -98,9 +98,15 @@ section.exp {
 section.exp:nth-child(2n) {
   flex-direction: row;
 }
+section.exp:nth-child(2n) .bloc-donnees {
+  padding-left: 1em;
+}
 section.exp:nth-child(2n+1) {
   flex-direction: row-reverse;
   justify-content: space-between;
+}
+section.exp:nth-child(2n) .bloc-donnees {
+  padding-right: 1em;
 }
 
 section.exp h2 .intitule {
