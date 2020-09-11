@@ -107,6 +107,8 @@ header .inner .left {
 
 section.exp {
   display: flex;
+  padding: 2em 150px;
+  margin: 0 -150px;
 }
 
 section.exp:nth-child(2n) {
