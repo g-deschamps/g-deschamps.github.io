@@ -97,6 +97,7 @@ section.exp {
 }
 section.exp:nth-child(2n) {
   flex-direction: row;
+  background-color: white;
 }
 section.exp:nth-child(2n) .bloc-donnees {
   padding-left: 1em;
@@ -104,6 +105,7 @@ section.exp:nth-child(2n) .bloc-donnees {
 section.exp:nth-child(2n+1) {
   flex-direction: row-reverse;
   justify-content: space-between;
+  background-color: #F7F7F7;
 }
 section.exp:nth-child(2n) .bloc-donnees {
   padding-right: 1em;
@@ -160,3 +162,6 @@ section.exp ul.lieux li + li:before {
   content: ", ";
 }
 
+section.exp .contenu-exp{
+  text-align: justify;
+}
