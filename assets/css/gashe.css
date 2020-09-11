@@ -111,11 +111,21 @@ section.exp h2 .dates {
   padding: 0;
   margin: 0;
   display: inline-block;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 100%;
 }
 
-section.exp h2 .dates .li ,
+section.exp h2 .dates li ,
 section.exp h2 .dates .debut ,
 section.exp h2 .dates .fin {
   display: inline;
 }
 
+section.exp h2 .dates li + li:before {
+  content: ", ";
+}
+
+section.exp h2 .dates .debut:after{
+  content: " - ";
+}
