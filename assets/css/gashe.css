@@ -129,3 +129,21 @@ section.exp h2 .dates li + li:before {
 section.exp h2 .dates .debut:after{
   content: " - ";
 }
+
+section.exp h2 .lieux {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 100%;
+}
+
+section.exp h2 .lieux li {
+  display: inline
+}
+
+section.exp h2 .lieux li + li:before {
+  content: ", ";
+}
