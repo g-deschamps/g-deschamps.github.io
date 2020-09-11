@@ -140,10 +140,10 @@ section.exp h2 .lieux {
   font-size: 100%;
 }
 
-section.exp h2 .lieux li {
+section.exp .lieux li {
   display: inline
 }
 
-section.exp h2 .lieux li + li:before {
+section.exp .lieux li + li:before {
   content: ", ";
 }
