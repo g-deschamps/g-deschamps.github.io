@@ -95,11 +95,12 @@ header .inner .left {
 section.exp {
   display: flex;
 }
-section.exp {
+section.exp:nth-child(2n) {
   flex-direction: row;
 }
-section.exp {
+section.exp:nth-child(2n+1) {
   flex-direction: row-reverse;
+  justify-content: space-between;
 }
 
 section.exp h2 .intitule {
