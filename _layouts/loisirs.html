@@ -35,15 +35,15 @@
       {% include toc.html %}
       <div class="inner clearfix"><div id="main-content">
 	<h1>Loisirs</h1>
-	{% for experience in site.loisirs %}<section class="exp">
+	{% for loisir in site.loisirs %}<section class="loisir">
           <div class="bloc-image">
-            <img src="{{ experience.image }}" alt="{{ experience.image_alt }}"/>
+            <img src="{{ loisir.image }}" alt="{{ loisir.image_alt }}"/>
           </div><!-- /.bloc-image -->
           <div class="bloc-donnees">
 	    <h2>
-              <div class="intitule">{{ experience.titre }}</div>
-            <div class="contenu-exp">
-              {{ experience.content | markdownify }}
+              <div class="intitule">{{ loisir.titre }}</div>
+            <div class="contenu-loisir">
+              {{ loisir.content | markdownify }}
             </div>
           </div><!-- /.bloc-donnees -->
 	</section>{% endfor %}
