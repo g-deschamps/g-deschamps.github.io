@@ -1,5 +1,6 @@
-# Loisirs
+---
+layout: loisirs
+title: Loisirs
+---
 
-En cours de construction...
-
-Merci pour votre compréhension.
+Pas de contenu ici...
