@@ -1,5 +1,7 @@
+---
+
 titre: Jeux-Vidéo
-image: 
+image: /images/JeuxV.png
 image_alt: Jeux-Vidéo
 
 ---
