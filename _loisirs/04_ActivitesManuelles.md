@@ -1,5 +1,7 @@
+---
+
 titre: Activités Manuelles
-image: 
+image: /images/ActiviteM.png
 image_alt: Activités Manuelles
 
 ---
