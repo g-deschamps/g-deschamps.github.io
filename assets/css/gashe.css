@@ -131,7 +131,7 @@ section.exp h2 .intitule {
   display: inline-block;
 }
 
-section.exp h2 .intitule:after {
+section.exp h2 .intitule:after + .date {
     content: " - ";
 }
 
