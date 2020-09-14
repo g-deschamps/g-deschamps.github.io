@@ -1,5 +1,5 @@
 titre: Athlétisme
-image: 
+image: /images/Athletisme.png
 image_alt: Athlétisme
 
 ---
