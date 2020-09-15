@@ -1,7 +1,3 @@
-html {
-   display:flex
-}
-
 header, h1, h2, header a.button {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif !important;
 }
