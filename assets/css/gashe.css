@@ -190,8 +190,8 @@ section.exp .contenu-exp{
 // Medium devices (tablets, 768px and up)
 @media (min-width: 769px){
 .inner {
-    display: flex;
-}!important
+    display: flex !important;
+}
 header a.button{
 	position: absolute;
 }
