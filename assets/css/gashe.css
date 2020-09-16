@@ -199,11 +199,12 @@ header h1, h2{
 header .inner{
 	display: content;
 }
-
 header .inner .left {
 	text-align: center;
 }
-
 header a.button{
 	display: inline-table;
+}
+html {
+	width: fit-content;
 }}
