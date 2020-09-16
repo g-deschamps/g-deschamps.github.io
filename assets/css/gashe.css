@@ -191,6 +191,7 @@ section.exp .contenu-exp{
 @media (min-width: 769px) {
 header .inner {
     display: flex;
+    bordure: 5px solid red;
 }
 header a.button{
 	position: absolute;
