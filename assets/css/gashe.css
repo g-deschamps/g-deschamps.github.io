@@ -194,8 +194,8 @@ header h1, h2{
 	width: 540px;
 }}
 
-
-@ media(max-width:768px) {
+// Medium devices (tablets, 768px and less)
+@media(max-width:768px) {
 header .inner{
 	display: content;
 }
