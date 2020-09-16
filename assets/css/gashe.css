@@ -73,8 +73,9 @@ header a.button:hover {
 
 header .inner {
     position: relative;
-    width: auto;
+    width: 940px;
     margin: 0 auto;
+    display: flex;
 }
 
 header .inner .right {
