@@ -184,3 +184,14 @@ section.exp .bloc-donnees {
 section.exp .contenu-exp{
   text-align: justify;
 }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 769px) { header .inner {
+    display: flex;
+}
+header a.button{
+	position: absolute;
+}
+header h1, h2{	
+	width: 540px;
+}}
