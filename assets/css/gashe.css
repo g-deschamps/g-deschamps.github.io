@@ -190,12 +190,6 @@ section.exp .contenu-exp{
 
 // Medium devices (tablets, 768px and up)
 @media (min-width: 769px){
-.inner {
-    display: flex !important;
-}
-header a.button{
-	position: absolute;
-}
 header h1, h2{	
 	width: 540px;
 }}
