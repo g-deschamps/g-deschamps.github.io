@@ -189,9 +189,8 @@ section.exp .contenu-exp{
 
 // Medium devices (tablets, 768px and up)
 @media (min-width: 769px) {
-header .inner {
+.inner {
     display: flex;
-    bordure: 5px solid red;
 }
 header a.button{
 	position: absolute;
