@@ -184,6 +184,9 @@ section.exp .contenu-exp{
   text-align: justify;
 }
 
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
 // Medium devices (tablets, 768px and up)
 @media (min-width: 769px) {
 header .inner {
