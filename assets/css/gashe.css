@@ -195,7 +195,7 @@ header h1, h2{
 }}
 
 
-@ media (max-width:768px) {
+@ media(max-width:768px) {
 header .inner{
 	display: content;
 }
