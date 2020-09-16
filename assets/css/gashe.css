@@ -193,3 +193,17 @@ section.exp .contenu-exp{
 header h1, h2{	
 	width: 540px;
 }}
+
+
+@ media (max-width:768px) {
+header .inner{
+	display: content;
+}
+
+header .inner .left {
+	text-align: center;
+}
+
+header a.button{
+	display: inline-table;
+}}
